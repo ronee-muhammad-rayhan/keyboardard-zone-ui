@@ -7,9 +7,16 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import sliderImage1 from "@/assets/avengers.jpg";
-import sliderImage2 from "@/assets/justice-league-superman-banner.png";
-import sliderImage3 from "@/assets/doctor-strange.jpg";
+import sliderImage1 from "@/assets/keyboard-1.jpg";
+import sliderImage2 from "@/assets/keyboard-2.jpg";
+import sliderImage3 from "@/assets/keyboard-3.jpg";
+import sliderImage4 from "@/assets/keyboard-4.jpg";
+import sliderImage5 from "@/assets/keyboard-5.jpg";
+import sliderImage6 from "@/assets/keyboard-6.jpg";
+import sliderImage7 from "@/assets/keyboard-7.jpg";
+import sliderImage8 from "@/assets/keyboard-8.jpg";
+import sliderImage9 from "@/assets/keyboard-9.jpg";
+import sliderImage10 from "@/assets/keyboard-10.jpg";
 import Container from "../Container";
 
 export function HeroSection() {
@@ -25,6 +32,34 @@ export function HeroSection() {
     {
       id: 3,
       image: sliderImage3,
+    },
+    {
+      id: 4,
+      image: sliderImage4,
+    },
+    {
+      id: 5,
+      image: sliderImage5,
+    },
+    {
+      id: 6,
+      image: sliderImage6,
+    },
+    {
+      id: 7,
+      image: sliderImage7,
+    },
+    {
+      id: 8,
+      image: sliderImage8,
+    },
+    {
+      id: 9,
+      image: sliderImage9,
+    },
+    {
+      id: 10,
+      image: sliderImage10,
     },
   ];
 
